@@ -7663,7 +7663,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 グリー
-「ベル、譲ちゃん、\.帰るよ！」
+「ベル、嬢ちゃん、\.帰るよ！」
 # TRANSLATION 
 
 # END STRING

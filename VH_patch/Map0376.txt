@@ -165,7 +165,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-「人間の町だと嫌煙される人たちがね」
+「人間の町だと敬遠される人たちがね」
 # TRANSLATION 
 
 # END STRING
@@ -408,7 +408,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 倉庫番
-「譲ちゃん、\.勝手に入っちゃいかんよ！」
+「嬢ちゃん、\.勝手に入っちゃいかんよ！」
 # TRANSLATION 
 
 # END STRING
@@ -429,6 +429,28 @@
 # ADVICE : 49 char limit (35 if face)
 倉庫番
 「先に話しを聞いてくれや！」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+倉庫番の伝言
+「シエスタなので銭湯いってくる。
+　今日はもう働かん」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ななこ
+「まったく、今日はこの町で寝泊りね。
+　旅費稼ぎに私も仕事でも探そうかしら」
 # TRANSLATION 
 
 # END STRING
@@ -1054,7 +1076,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 倉庫番
-「おう、\.譲ちゃん！
+「おう、\.嬢ちゃん！
  \!あんたがななこか？」
 # TRANSLATION 
 
@@ -1392,7 +1414,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 倉庫番
-\S[2]「おう、\.来たな譲ちゃん！」
+\S[2]「おう、\.来たな嬢ちゃん！」
 # TRANSLATION 
 
 # END STRING

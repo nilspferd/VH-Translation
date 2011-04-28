@@ -1507,7 +1507,7 @@ agony as let go of her breast.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\[0]
+\N[0]
 「フンッ、自業自得よ」
 # TRANSLATION 
 

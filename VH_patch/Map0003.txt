@@ -6935,6 +6935,7 @@ Goblin Maniac
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+徘徊中年
 「んんー？溜まってるのか？
 　俺でいいならいくらでも相手してやるぞ」
 # TRANSLATION 
@@ -6942,33 +6943,34 @@ Goblin Maniac
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 
-　　　　　　　\>歩行グラフィック着替え\<
+\>　　　　　　　歩行グラフィック着替え\<
 # TRANSLATION 
-Here you can see Nanako's possible
-clothes.
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\>0～37
-までの数字を入れてみてください
-ほこグラが変化します\<
+\>0～38\<
+\>までの数字を入れてみてください\<
+\>ほこグラが変化します\<
 # TRANSLATION 
-Please enter a number between 0 and
-37, it'll determine Nanako's clothing.
+
 # END STRING
 
 # TEXT STRING
+# UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\>0～37
-までの数字を入れてください\<
+\>0～38\<
+\>までの数字を入れてください\<
 # TRANSLATION 
-I said between 0 and 37...
+
 # END STRING
 
 # TEXT STRING
@@ -7930,6 +7932,16 @@ in this kind of weather.
 # TEXT STRING
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
+
+　　　　　　　\>歩行グラフィック着替え\<
+# TRANSLATION 
+Here you can see Nanako's possible
+clothes.
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
 さっそく冒険者ギルドに行って、
 報奨金を受け取ってくれ。
 # TRANSLATION 
@@ -8249,6 +8261,15 @@ a task on my behalf.
 # TRANSLATION 
 "Nanako, huh... heh,
 what a cute name."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\>0～37
+までの数字を入れてください\<
+# TRANSLATION 
+I said between 0 and 37...
 # END STRING
 
 # TEXT STRING
@@ -10026,6 +10047,17 @@ we need to always watch for them!"
 　退治してきてくれんかね」
 # TRANSLATION 
 "And so, this is the part where you come in."
+# END STRING
+
+# TEXT STRING
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\>0～37
+までの数字を入れてみてください
+ほこグラが変化します\<
+# TRANSLATION 
+Please enter a number between 0 and
+37, it'll determine Nanako's clothing.
 # END STRING
 
 # TEXT STRING

@@ -3,9 +3,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-商人
-「いらっしゃい」
-　　　　　　　　　　　　　
+雑貨屋の奥さん
+「今日の夕飯どうしょう・・・」
 # TRANSLATION 
 
 # END STRING
@@ -14,8 +13,7 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-八百屋の奥さん
-「今日の夕飯どうしょう・・・」
+カギがかかっていて入れないようだ
 # TRANSLATION 
 
 # END STRING
@@ -72,8 +70,8 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-商人
-「そっちは、会員証がないといけないよ」
+？？？
+「・・ねぇ・・・なな・・・・・ななこお姉ちゃん！」
 # TRANSLATION 
 
 # END STRING
@@ -82,7 +80,83 @@
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-カギがかかっていて入れないようだ
+ななこ
+「んっ・・・」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+　　　　　ななこ
+　　　　　「・・・・・だれ？？？」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+　　　　　　「未完成」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+　　　　「次回予告作ってみました。」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+ご覧になりますか？
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+見る
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Choice
+# ADVICE : 49 char limit
+見ない
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+　　　　　　　　ななこ
+　　　　　　　　「おほん、それでは、」
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+　　　　　？？？
+　　　　「それでは、ＶＴＲスタート！！」
 # TRANSLATION 
 
 # END STRING

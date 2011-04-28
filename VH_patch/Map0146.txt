@@ -836,7 +836,7 @@ A ladder is here to help you get up and down.
 # UNTRANSLATED
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
-\N[0]
+男性乗客
 「……」
 # TRANSLATION 
 

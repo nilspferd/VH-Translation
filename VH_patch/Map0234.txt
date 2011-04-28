@@ -83,3 +83,24 @@
 # TRANSLATION 
 
 # END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+盗賊達に見つかってしまった私達は
+簡単に追い詰められ、
+抵抗むなしく捕らわれの身となりました。
+# TRANSLATION 
+
+# END STRING
+
+# TEXT STRING
+# UNTRANSLATED
+# CONTEXT : Dialogue/Message/FaceUnknown
+# ADVICE : 49 char limit (35 if face)
+\N[0]
+「ゴメンねアシュリーさん……」
+# TRANSLATION 
+
+# END STRING

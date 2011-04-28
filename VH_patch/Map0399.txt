@@ -1940,7 +1940,6 @@
 # ADVICE : 49 char limit (35 if face)
 「子供達に触発されて
 　ついつい脱いでしまったわい！」
-　
 # TRANSLATION 
 
 # END STRING

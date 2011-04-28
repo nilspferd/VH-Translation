@@ -4645,7 +4645,7 @@
 # CONTEXT : Dialogue/Message/FaceUnknown
 # ADVICE : 49 char limit (35 if face)
 側近
-「根性の別れではありません。\!
+「今生の別れではありません。\!
 　縁があれば、また会えると言っています」
 # TRANSLATION 
 
